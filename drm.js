@@ -3,7 +3,7 @@
             {
                 visitorID: "677150267b87cc522152ca20712cddfc",
                 expiryDate: "2025-12-31T23:59:59", // Expiry date in ISO format
-                allowedPageTitle: "Protected Content"
+                allowedPageTitle: "Protected PDF"
             },
             {
                 visitorID: "xyz456visitorId2",
